@@ -142,7 +142,7 @@ twitter:
 facebook:
   username               :
   app_id                 :
-  publisher              
+  publisher              : 
 og_image                 :  # Social media default site image
 og_description           :  # Social media default site image description
 # For specifying social profile
