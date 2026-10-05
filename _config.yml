@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Main Page"
+title                    : "Shang Wang | Academic Homepage"
 title_separator          : "-"
 name                     : &name "Shang Wang"
-description              : &description "Test-Test-Test"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Shang Wang's personal website and academic portfolio."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://shang.asia # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Shang Wang"
   pronouns         : # example: "she/her"  
-  bio              :  
+  bio              : "Technion-Israel Institute of Technology" 
   location         : "Guangdong, China"
-  employer         : "Technion-Israel Institude of Technology"
+  employer         : 
   uri              : "https://shang.asia/"
   email            : "wang24633@gtiit.edu.cn" 
 
@@ -85,11 +85,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Test'
+    title: 'Books'
   manuscripts:
-    title: 'Journal Tests'    
+    title: 'Journal Articles'    
   conferences:
-    title: 'Conference Tests'
+    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
