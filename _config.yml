@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Shang Wang"
   pronouns         : # example: "she/her"  
-  bio              : "4th year undergraduate student majors in Mathematics and Computer Science, Technion China"
+  bio              :  
   location         : "Guangdong, China"
   employer         : "Technion-Israel Institude of Technology"
-  uri              : shang.asia"
+  uri              : "https://shang.asia/"
   email            : "wang24633@gtiit.edu.cn" 
 
   # Academic websites
