@@ -11,5 +11,8 @@ Hello, my name is Shang Wang. The first name's pronounce is mostly like the firs
 I am a fourth-year undergraduate in Mathematics and Computer Science at Guangdong
 Technion – Israel Institute of Technology [GTIIT](https://www.gtiit.edu.cn/en/index.aspx) in Shantou, China. I am focusing on
 machine learning, with a interest on AI for Science, human–AI interaction and the impact of AI on human society,
-and I am currently looking for research opportunities in a lab.
+and I am currently looking for research opportunities in a lab, and preparing my TOEFL exam!
+
+To know more about me, I invite you to explore this website. Thank you for your interest!
+
 
