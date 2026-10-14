@@ -15,22 +15,3 @@ Extended [rgbds-live](https://github.com/gbdev/rgbds-live), a WebAssembly-powere
   * **Multi-Context Architecture Refactoring**: Reorganized the single-instance front-end architecture into a modular, class-based design to decouple project storage, compilation pipelines, and emulator states, enabling tab-based workspace switching and parallel execution of multiple assembly targets.
   * ![rgbds-live interface](/images/rgb.png)
 
-## Campus Activities
-
-### Student Assistant at Career and Learning Center (CLC)
-Assisted in organizing career development initiatives, academic workshops, and campus-wide events at GTIIT (Fall 2025 – Present).
-  * **Event Hosting & Coordination**: Served as the master of ceremonies (MC) for the Campus Research Poster Competition and coordinated graduate study Q&A sessions and mock interviews.
-  * **Mock Interviews & Career Support**: Organized and participated in mock interview sessions to help students refine their interview skills and career readiness.
-  * **Resource Curation & Documentation**: Collected, compiled, and translated career and graduate application materials, event summaries, and guidance resources for the student community.
-
-## Personal Interests
-
-### Photography
-Capturing campus events and daily moments with both digital and film cameras.
-![Some Photos](/images/01103073.jpg)
-### Swimming
-Currently in the early stages of learning to swim and practicing regularly.
-
-### Home Mixology
-Exploring classic recipes and crafting drinks in my spare time.
-![Some Photos](/images/IMG_7568.jpeg)
